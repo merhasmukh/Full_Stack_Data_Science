@@ -2,8 +2,6 @@
 
 Here you find all the details and materials related to full stack data sciene.
 
-## Python
-
 -> Python
 -> Stats
 -> Machine learning
@@ -22,5 +20,7 @@ Here you find all the details and materials related to full stack data sciene.
 -> Mock interview
 ->Interview preparation
 -> Resume building after every module
+
+## Python
 
 
