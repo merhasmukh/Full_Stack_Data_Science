@@ -21,9 +21,8 @@ Here you find all the details and materials related to full stack data sciene.
 ->Interview preparation
 -> Resume building after every module
 
-## Python
+## Python Fundamentals
 
-##### Python Fundamentals
 ##### Python Basic
 ##### String, List, Indexing
 ##### Tuple, Set & Dict
