@@ -23,4 +23,14 @@ Here you find all the details and materials related to full stack data sciene.
 
 ## Python
 
+Python Fundamentals
+Python Basic
+String, List, Indexing
+Tuple, Set & Dict
+If, Else & For Loop
+For Loops & While loops
+Python Program Discussion in loops
+Function Part - 1
+Function Part - 2
+
 
