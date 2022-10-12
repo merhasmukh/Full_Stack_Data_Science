@@ -31,5 +31,13 @@ Here you find all the details and materials related to full stack data sciene.
 ##### Python Program Discussion in loops
 ##### Function 
 
+## Advanced Python
+
+##### Iterator Generator & File System
+##### Exception handling 
+##### Module & Packages
+##### OOPS 
+##### OOPs Concepts - Polymorphism
+
 
 
