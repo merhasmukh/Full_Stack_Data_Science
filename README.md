@@ -25,21 +25,21 @@ Here you find all the details and materials related to full stack data sciene.
 
 ### **Python Fundamentals**
 
-##### Python Basic
-##### String, List, Indexing
-##### Tuple, Set & Dict
-##### If, Else & For Loop
-##### For Loops & While loops
-##### Python Program Discussion in loops
-##### Function 
+##### Day-1 Python Basic
+##### Day-2 String, List, Indexing
+##### Day-3 Tuple, Set & Dict
+##### Day-4 If, Else & For Loop
+##### Day-5 For Loops & While loops
+##### Day-7 Python Program Discussion in loops
+##### Day-8 Function 
 
 ### **Advanced Python**
 
-##### Iterator Generator & File System
-##### Exception handling 
-##### Module & Packages
-##### OOPS 
-##### OOPs Concepts - Polymorphism
+##### Day-9 Iterator Generator & File System
+##### Day-10 Exception handling 
+##### Day-11 Module & Packages
+##### Day-12 OOPS 
+##### Day-13 OOPs Concepts - Polymorphism
 
 
 
