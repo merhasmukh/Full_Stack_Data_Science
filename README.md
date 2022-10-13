@@ -1,4 +1,4 @@
-# full_stack_data_science
+# Full_Stack_Data_Science
 
 Here you find all the details and materials related to full stack data sciene.
 
