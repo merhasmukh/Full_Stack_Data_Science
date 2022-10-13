@@ -21,9 +21,9 @@ Here you find all the details and materials related to full stack data sciene.
 ->Interview preparation
 -> Resume building after every module
 
-# **Python** 
+# *****************Python************************
 
-### **Python Fundamentals**
+### **********************Python Fundamentals***********************
 
 ##### Day-1 Python Installation and setup
 ##### Day-2 Python Basic
@@ -34,7 +34,7 @@ Here you find all the details and materials related to full stack data sciene.
 ##### Day-7 Function
 ##### Day-8 Logging And Debugging 
 
-### **Advanced Python**
+### *********************Advanced Python****************************
 
 ##### Day-9 Iterator Generator & File System
 ##### Day-10 Class And Objects 
