@@ -1,7 +1,5 @@
 # Full_Stack_Data_Science
 
-## You can follow this 3-months :
-<a href="https://github.com/krishnaik06/3-Months-RoadMap-For-Data-Science">https://github.com/krishnaik06/3-Months-RoadMap-For-Data-Science</a>
 
 Here also you find all the details and materials related to full stack data sciene.
 
@@ -47,3 +45,5 @@ Here also you find all the details and materials related to full stack data scie
 
 
 
+## You can follow this 3-months Roadmap with videos :
+<a href="https://github.com/krishnaik06/3-Months-RoadMap-For-Data-Science">https://github.com/krishnaik06/3-Months-RoadMap-For-Data-Science</a>
