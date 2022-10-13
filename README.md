@@ -1,7 +1,7 @@
 # Full_Stack_Data_Science
 
 
-Here also you find all the details and materials related to full stack data sciene.
+Here you find all the details and materials related to full stack data science.
 
 -> Python
 -> Stats
