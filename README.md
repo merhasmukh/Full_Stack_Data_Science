@@ -1,9 +1,9 @@
 # Full_Stack_Data_Science
 
-## You can follow this:
-<a href="https://github.com/krishnaik06/3-Months-RoadMap-For-Data-Science">
+## You can follow this 3-months :
+<a href="https://github.com/krishnaik06/3-Months-RoadMap-For-Data-Science">https://github.com/krishnaik06/3-Months-RoadMap-For-Data-Science</a>
 
-Here you find all the details and materials related to full stack data sciene.
+Here also you find all the details and materials related to full stack data sciene.
 
 -> Python
 -> Stats
