@@ -37,11 +37,12 @@ Here you find all the details and materials related to full stack data science.
 
 ### **Advanced Python**
 
-##### Day-9 Iterator Generator & File System
-##### Day-10 Class And Objects 
-##### Day-11 Module & Packages
-##### Day-12 Exception handling
-##### Day-13 Abstraction And Inheritance
+##### Day-9 Iterator Generator 
+##### Day-10 File System
+##### Day-11 Class And Objects 
+##### Day-12 Module & Packages
+##### Day-13 Exception handling
+##### Day-14 Abstraction And Inheritance
 
 
 
