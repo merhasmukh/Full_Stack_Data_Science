@@ -43,6 +43,7 @@ Here you find all the details and materials related to full stack data science.
 ##### Day-12 Module & Packages
 ##### Day-13 Exception handling
 ##### Day-14 Abstraction And Inheritance
+##### Day-15 Encapsulation And Polymorphism
 
 
 
