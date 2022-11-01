@@ -47,5 +47,6 @@ Here you find all the details and materials related to full stack data science.
 
 
 
+
 ## You can follow this 3-months Roadmap with videos :
 <a href="https://github.com/krishnaik06/3-Months-RoadMap-For-Data-Science">https://github.com/krishnaik06/3-Months-RoadMap-For-Data-Science</a>
