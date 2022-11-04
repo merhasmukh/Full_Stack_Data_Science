@@ -1,26 +1,24 @@
 # Full_Stack_Data_Science
 
 
-Here you find all the details and materials related to full stack data science.
+### Here you find all the details and materials related to full stack data science.
 
--> Python
--> Stats
--> Machine learning
--> Deep learning
--> Computer vision
--> Natural language processing
--> Data analytics
--> Big data
--> Ml ops
--> Cloud
--> Data structure and algorithm
--> Architecture
--> Domain wise project
--> Databases
--> Negotiations skills
--> Mock interview
-->Interview preparation
--> Resume building after every module
+- Python
+- Stats
+- Machine learning
+- Deep learning
+- Computer vision
+- Natural language processing
+- Data analytics
+- Big data
+- Ml ops
+- Cloud
+- Data structure and algorithm
+- Architecture
+- Domain wise project
+- Databases
+- Interview preparation
+
 
 # **Python**
 
@@ -44,6 +42,11 @@ Here you find all the details and materials related to full stack data science.
 ##### Day-13 Exception handling
 ##### Day-14 Abstraction And Inheritance
 ##### Day-15 Encapsulation And Polymorphism
+
+### ** Basic Programming Assignments**
+
+#### Day-16 Assignment-1
+#### Day-17 Assignment-2
 
 
 
