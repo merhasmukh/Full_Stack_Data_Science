@@ -43,7 +43,7 @@
 ##### Day-14 Abstraction And Inheritance
 ##### Day-15 Encapsulation And Polymorphism
 
-### ** Basic Programming Assignments**
+### **Basic Programming Assignments**
 
 ##### Day-16 Assignment-1
 ##### Day-17 Assignment-2
